@@ -1,12 +1,24 @@
 const express = require("express")
 const router = express.Router()
-const estabelecimentoController = require('../controllers/estabelecimentoController')
-// const reviewController = require('../controllers/reviewController')
-// const authAdm = require('../middlewares/authAdm')
-// const authUser = require('../middlewares/authUser')
+const controller = require('../controllers/estabelecimentoController')
+const comentariosRoute = require('./comentarioRoute')
 
-router.post('/create', estabelecimentoController.addEstabelecimento)
-router.put('/id', estabelecimentoController.atualizar)
+router.get('/', controller.getAll)
+router.get('/:id', controller.get)
+router.post('/', controller.create)
+router.put('/:id', controller.update)
+router.delete('/:id', controller.remove)
 
+router.post('/:id/like', controller.like)
+router.post('/:id/dislike', controller.dislike)
+
+// Middlewre de redirecionameno do ID do estabelecimento
+const redirectParam = (req, res, next) => {
+    const {id} = req.params
+    req.estabelecimento = id
+    next()
+}
+
+router.use('/:id/comentarios', redirectParam, comentariosRoute)
 
 module.exports = router
