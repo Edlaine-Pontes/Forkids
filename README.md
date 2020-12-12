@@ -218,6 +218,7 @@ Me organizei e fiz um bom planejamento financeiro, mas nem todo planejamento pod
 Mesmo ouvindo que eu era velha demais ou que por ser Psicologa eu não seria capaz de programar, eu nao desisti e no caminho encontrei a REPROGRAMA e a CLOUD GIRLS.
 Mulheres maravilhosas que acreditaram em mim quando eu nao acreditei. Rainhas guerreiras que conseguem equilibrar familia, estudo e trabalho.
 Entao eu quero agradecer a cada mulher que conheci na turma ON6-XP, a CECI que sempre ilumina os nossos dias a Jô pela oportunidade de mudar a minha vida e cada mentora e monitora que doaram o que existe de mais valioso "tempo".
-Um agradecimento especial ao meu marido Henrique Marti por ser meu porto seguro, minha inspiração e meu parceiro de vida, e ao meus filhos que tiveram paciencia (quando eu nao tinha). E ao Cloud Girls (Juh e Danilo) que abriu as portas da mudança e me permitiu voar bem alto.
+Um agradecimento especial ao meu marido Henrique Marti por ser meu porto seguro, minha inspiração e meu parceiro de vida, e ao meus filhos que tiveram paciencia (quando eu nao tinha). <br>
+E ao Cloud Girls (Juh e Danilo) que abriu as portas da mudança e me permitiu voar bem alto.<br>
 
 E lembre-se programar é ERRAR, ERRAR, ERRAR e ACERTAR e não esqueça de ser divertir!
