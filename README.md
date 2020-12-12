@@ -3,7 +3,6 @@
 ## 🚀 Descrição
 API desenvolvida como Projeto Final para a conclusão do curso de Backend [{Reprograma}](https://reprograma.com.br/).
 
-Para visualizar a descrição completa do projeto, siga [API - HOGAR](/assets/apihogarCamila.pdf)
 
    >Como mãe de duas crianças pequenas passei por varios infortunio, como trocar a fralda do meu filho em uma mesa porque o estabelecimento nao tinha fraldario ou um simples trocador no banheiro, ou ficar horas rodando de carro para encontrar um restaurante com espaço kids.
 
