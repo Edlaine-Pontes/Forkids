@@ -1,4 +1,5 @@
-<img src="./assets/forkids.PNG" width="100%">
+<img src="./assets/inicio.PNG" width="100%">
+<img src="./assets/meio.jpg" width="100%">
 
 
 # API - FORKIDS
