@@ -141,11 +141,11 @@ Funcionalidades da aplicação
 
 ### 👩‍👧‍👦Rotas
 
-* local: http://localhost:33
+* local: http://localhost:3000
 
-* MongoDB: [mongodb://localhost:27017/apihogar]()
+* MongoDB: [mongodb://localhost:27017/forkids]()
 
-* Heroku: https://api-hogar.herokuapp.com/
+* Heroku: https://forkids-backend.herokuapp.com/
 
 
 #### Retorna teste com apresentação 
@@ -166,7 +166,7 @@ Funcionalidades da aplicação
 - [x] "/:Id" 
 
 #### Deleta cadastro ou postagem por id específico e retorna mensagem amigável
-- [x] "/estabeelcimentos/[ID]" 
+- [x] "/estabelecimentos/[ID]" 
 
 #### Enviar um comentario sobre um estabelecimento
 - [x] "/estabelecimentos/[ID]/comentarios" 
@@ -213,7 +213,7 @@ Aos 36 anos, depois de trabalhar por 16 anos em RH decidi que era hora de mudar 
 Me organizei e fiz um bom planejamento financeiro, mas nem todo planejamento poderia me preparar para esse caminho dificil e algumas vezes doloroso.
 Mesmo ouvindo que eu era velha demais ou que por ser Psicologa eu não seria capaz de programar, eu nao desisti e no caminho encontrei a REPROGRAMA e a CLOUD GIRLS.
 Mulheres maravilhosas que acreditaram em mim quando eu nao acreditei. Rainhas guerreiras que conseguem equilibrar familia, estudo e trabalho.
-Entao eu quero agradecer a cada mulher que conheci na turma ON6-XP, a CECI que sempre ilumina os nossos dias a Jô pela oportunidade de mudar a minha vida e cada mentora e monitora que doaram o que existe de mais valioso "tempo".
+Entao eu quero agradecer a cada mulher que conheci na turma ON6-XP, a CECI que sempre ilumina os nossos dias a Jô pela oportunidade de mudar a minha vida e cada mentora e monitora que doaram o que existe de mais valioso "tempo".<br>
 Um agradecimento especial ao meu marido Henrique Marti por ser meu porto seguro, minha inspiração e meu parceiro de vida, e ao meus filhos que tiveram paciencia (quando eu nao tinha). <br>
 E ao Cloud Girls (Juh e Danilo) que abriu as portas da mudança e me permitiu voar bem alto.<br>
 
