@@ -179,9 +179,6 @@ Funcionalidades da aplicação
 - [x] "/estabelecimento/[ID]"
 
 
-
-[![Badge](https://img.shields.io/badge/heroku-deploy-green)](https://api-hogar.herokuapp.com/) ![Badge](https://img.shields.io/github/forks/camilapessoa/hogarapifinal) ![Badge](https://img.shields.io/github/issues/camilapessoa/hogarapifinal) ![Badge](https://img.shields.io/github/stars/camilapessoa/hogarapifinal)
-
 ## ✅Modelo com campos obrigatórios para teste
 
 ### 👩‍👧‍👦 Estabelecimentos
