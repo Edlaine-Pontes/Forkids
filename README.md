@@ -3,7 +3,6 @@
 ## 🚀 Descrição
 API desenvolvida como Projeto Final para a conclusão do curso de Backend [{Reprograma}](https://reprograma.com.br/).
 
-Para visualizar a descrição completa do projeto, siga [API - HOGAR](/assets/apihogarCamila.pdf)
 
    >Como mãe de duas crianças pequenas passei por varios infortunio, como trocar a fralda do meu filho em uma mesa porque o estabelecimento nao tinha fraldario ou um simples trocador no banheiro, ou ficar horas rodando de carro para encontrar um restaurante com espaço kids.
 
@@ -179,9 +178,6 @@ Funcionalidades da aplicação
 #### Atualiza o cadastro de um estabelecimento (id não pode ser modificado)
 - [x] "/estabelecimento/[ID]"
 
-
-
-[![Badge](https://img.shields.io/badge/heroku-deploy-green)](https://api-hogar.herokuapp.com/) ![Badge](https://img.shields.io/github/forks/camilapessoa/hogarapifinal) ![Badge](https://img.shields.io/github/issues/camilapessoa/hogarapifinal) ![Badge](https://img.shields.io/github/stars/camilapessoa/hogarapifinal)
 
 ## ✅Modelo com campos obrigatórios para teste
 
