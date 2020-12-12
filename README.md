@@ -1,10 +1,13 @@
+<img src="./assets/forkids.PNG" width="100%">
+
 
 # API - FORKIDS
 ## 🚀 Descrição
+
 API desenvolvida como Projeto Final para a conclusão do curso de Backend [{Reprograma}](https://reprograma.com.br/).
 
 
-   >Como mãe de duas crianças pequenas passei por varios infortunio, como trocar a fralda do meu filho em uma mesa porque o estabelecimento nao tinha fraldario ou um simples trocador no banheiro, ou ficar horas rodando de carro para encontrar um restaurante com espaço kids.
+   >Como mãe de duas crianças pequenas passei por varios infortunio, como trocar a fralda do meu filho em uma mesa porque o estabelecimento nao tinha fraldario ou um simples trocador no banheiro, ou ficar horas rodando de carro para encontrar um restaurante com espaço kids.<br>
 
    >
    >Para minizar esse sofrimento nasce a FORKIDS uma plataforma onde pais e mães cadastram estabelecimentos (restaurantes, cinema, hotel, cabeleireiro) etc que são adequados para levar as crianças, afinal nada pior do que chegar em um lugar e não encontrar nem uma cadeirinha para colocar o pequeno ou um cardapio adequado para crianças. De pais para pais essa é a essencia do FORKIDS
@@ -202,7 +205,7 @@ Funcionalidades da aplicação
 
 # Agradecimentos
 
-Aos 36 anos, depois de trabalhar por 16 anos em RH decidi que era hora de mudar de carreira. 
+<p align="justify">Aos 36 anos, depois de trabalhar por 16 anos em RH decidi que era hora de mudar de carreira. 
 Me organizei e fiz um bom planejamento financeiro, mas nem todo planejamento poderia me preparar para esse caminho dificil e algumas vezes doloroso.
 Mesmo ouvindo que eu era velha demais ou que por ser Psicologa eu não seria capaz de programar, eu nao desisti e no caminho encontrei a REPROGRAMA e a CLOUD GIRLS.
 Mulheres maravilhosas que acreditaram em mim quando eu nao acreditei. Rainhas guerreiras que conseguem equilibrar familia, estudo e trabalho.
@@ -210,4 +213,4 @@ Entao eu quero agradecer a cada mulher que conheci na turma ON6-XP, a CECI que s
 Um agradecimento especial ao meu marido Henrique Marti por ser meu porto seguro, minha inspiração e meu parceiro de vida, e ao meus filhos que tiveram paciencia (quando eu nao tinha). <br>
 E ao Cloud Girls (Juh e Danilo) que abriu as portas da mudança e me permitiu voar bem alto.<br>
 
-E lembre-se programar é ERRAR, ERRAR, ERRAR e ACERTAR e não esqueça de ser divertir!
+E lembre-se programar é ERRAR, ERRAR, ERRAR e ACERTAR e não esqueça de ser divertir!</p>
