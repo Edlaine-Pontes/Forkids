@@ -152,20 +152,13 @@ Funcionalidades da aplicação
 { mensagem: O app está rodando em http://localhost:3000 }
 - [x] "/estabelecimentos" 
 
-#### Retorna todos os dados do banco de dados
-- [x] "/:id/" 
-- [x]"/:id/like" 
-- [x]"/:id/deslike "
-- [x]"/voluntario/"
-
-
 #### Cria novo cadastro de estabelecimento
 - [x] "/estabelecimentos" 
 
 #### Retorna estabelecimento por um id específico
 - [x] "/:Id" 
 
-#### Deleta cadastro ou postagem por id específico e retorna mensagem amigável
+#### Deleta cadastro do estabelecimento
 - [x] "/estabelecimentos/[ID]" 
 
 #### Enviar um comentario sobre um estabelecimento
